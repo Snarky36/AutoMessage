@@ -18,7 +18,7 @@ from fbchat.models import ThreadType, Message
 thread_type = ThreadType.USER
 image='/Users/Dell/Desktop/Echipe wildcats/alte stiri/a.jpg'
 
-#client1= Client('zaharie_andrei66@yahoo.com','Andreius2007')
+#client1= Client('<YourFacebookEmail>','<Password>')
 folder='/Users/Dell/Desktop/temaroamana/'
 nr=0
 def verificare(x):
